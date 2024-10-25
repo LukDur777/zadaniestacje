@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+    display: flex;
+
+}
+.lewo {
+    width: 30%;
+    height: 1800px;
+}
+.logo1{
+    margin: 10px 10px;
+    width: 300px;
+    height: 305px;
+}
+.prawo {
+    background-color: gray;
+    width: 70%;
+    height: 1800px;
+    margin: 34px 41px;
+}
+.szukanie, .text, .reszta{
+    margin: 5px 10px;
+}
+.miasto {
+    margin: 5px 6px;
+}
+.szukajreset {
+    margin: 5px 10px;
+}
+h3 {
+    text-align: end;
+    margin: 800px 55px;
+    font-size: 50px;
+    color: white;
+}
